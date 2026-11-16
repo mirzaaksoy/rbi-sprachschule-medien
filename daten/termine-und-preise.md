@@ -1,7 +1,18 @@
 # RBI Sprachschule – Termine für Instagram-Automatik
 
-## Intensivkurse A1–C1 (Kursbeginn, jeweils Montag)
-18.01.2027 · 22.03.2027 · 24.05.2027 · 26.07.2027 · 27.09.2027 · 29.11.2027
+## Kurszeiträume 2027 – Intensivkurse A1–C1 UND FSP-Kurse (einheitlich)
+| Start (Montag) | Ende |
+|---|---|
+| 18.01.2027 | 12.03.2027 |
+| 22.03.2027 | 21.05.2027 |
+| 24.05.2027 | 19.07.2027 |
+| 26.07.2027 | 17.09.2027 |
+| 27.09.2027 | 22.11.2027 |
+| 29.11.2027 | (Ende noch nicht bekannt) |
+
+- Jeder Zeitraum umfasst genau **40 Unterrichtstage** (= 1 Modul / 8 Wochen). Gesetzliche Feiertage sind bereits berücksichtigt – an diesen Tagen kein Unterricht.
+- Termine unter Vorbehalt (z. B. Nachholtag bei Krankheit einer Lehrkraft). In Posts nur Starttermine und ggf. Zeitraum nennen, keine Garantie für einzelne Tage.
+- In Posts NICHT auf Feiertage eingehen (siehe RICHTLINIEN.md).
 
 ## TestDaF – NUR DIGITAL bei RBI (Prüfung | Anmeldezeitraum | Ergebnis)
 10.12.2026 | 05.01.2026–27.11.2026 | 06.01.2027 | Digital
@@ -21,7 +32,7 @@ Auf Anfrage, flexibel. Termin vereinbaren per E-Mail (info@rbi-duesseldorf.de), 
 Termine siehe daten/telc-termine.tsv (Spalten: ID, Datum, Prüfung, Papier/Digital, Uhrzeit) (A1, A2, A2-B1, B1, B2, C1, C1 Hochschule, Pflege B1-B2; B1/B2/C1 HS auch digital).
 
 ## FSP
-Gleiche Starttermine wie Intensivkurse. Ärzte 8 Wo 1.500 € / 4 Wo 900 €; Zahnärzte 8 Wo 1.800 € / 4 Wo 1.100 €. Voraussetzung B2. Material inkl.
+Gleiche Kurszeiträume wie Intensivkurse (siehe oben). Ärzte 8 Wo 1.500 € / 4 Wo 900 €; Zahnärzte 8 Wo 1.800 € / 4 Wo 1.100 €. Voraussetzung B2. Material inkl.
 
 ## Preise Intensivkurse (Einmalzahlung)
 ½ Modul 4 Wo 550 € · 1 Modul 2 Mon 1.000 € · 2 Mod 1.900 € · 3 Mod 2.700 € · 4 Mod 3.400 € · 5 Mod 4.000 € (Raten/monatlich möglich)
