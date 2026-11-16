@@ -32,6 +32,7 @@ Alle Fakten, Preise und Termine NUR aus `daten/`. Nichts erfinden. Fehlen Daten 
 ## Gestaltung
 - Grafiken mit `python3 tools/render.py spec.json` erzeugen (Stile: `werbung` = helles Creme/Teal-Design, `lernen` = dunkles Design, `reel` = Folienvideo 9:16). Bestehende Posts (`2026-11/`, `reels/*.json`) als Vorbild für Aufbau und Textmenge nehmen.
 - Bilder anschließend ansehen (Read) und prüfen: kein Text abgeschnitten oder überlappend, nichts über den Fuß hinaus.
+- Profilraster: Instagram zeigt Beiträge in der Profilübersicht als 3:4-Vorschau. Bei 4:5-Bildern (1080×1350) werden links und rechts je ca. 35 px abgeschnitten → wichtiger Inhalt mindestens 80 px vom seitlichen Rand. Bei Reel-Covern (1080×1920) werden oben und unten je ca. 240 px abgeschnitten → Titel/Hook auf der ersten Folie immer im mittleren Bereich (y 240–1680), nichts Wichtiges oben oder unten.
 - Dateinamen: `JJJJ-MM/rbi-NN-stichwort.jpg|mp4`, NN = fortlaufende Post-Nummer.
 - Für Reels die Folien zusätzlich als `reels/NN.json` speichern (für spätere Sprachaufnahme) und ein Sprechskript (1 Satz pro Folie) im Plan-Eintrag unter `sprechskript` ablegen.
 
