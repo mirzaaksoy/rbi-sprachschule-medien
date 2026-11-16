@@ -8,7 +8,7 @@
 | 24.05.2027 | 19.07.2027 |
 | 26.07.2027 | 17.09.2027 |
 | 27.09.2027 | 22.11.2027 |
-| 29.11.2027 | (Ende noch nicht bekannt) |
+| 29.11.2027 | Ende noch offen – NICHT bewerben, bis das Enddatum feststeht |
 
 - Jeder Zeitraum umfasst genau **40 Unterrichtstage** (= 1 Modul / 8 Wochen). Gesetzliche Feiertage sind bereits berücksichtigt – an diesen Tagen kein Unterricht.
 - Termine unter Vorbehalt (z. B. Nachholtag bei Krankheit einer Lehrkraft). In Posts nur Starttermine und ggf. Zeitraum nennen, keine Garantie für einzelne Tage.
