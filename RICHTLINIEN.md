@@ -9,8 +9,9 @@ Verbindlich für jeden automatischen Lauf. Bei Zweifel: Thema NICHT verwenden.
 - Instagram-Texte enden mit „Link in Bio“; Facebook-Texte nennen stattdessen „rbi-duesseldorf.de“.
 
 ## Leitbild pro Woche
-- **Montag: Deutsch-Tipp** · **Mittwoch: Werbung** · **Freitag: Deutsch-Tipp** (jeweils 10:58 Uhr).
-- Ausnahme nur bei Fristen (z. B. Anmeldeschluss), dann max. 2 Werbeposts in der Woche.
+- **Grundregel: Es gibt IMMER mehr Lern-Posts als Werbung** – in JEDER Kalenderwoche (Mo–So) mindestens 2 Deutsch-Tipps und höchstens 1 Werbepost. Keine Ausnahmen, auch nicht bei Fristen: Dann wird der Werbepost innerhalb der Woche verschoben, nicht zusätzlich eingeplant.
+- Standard: **Montag: Deutsch-Tipp** · **Mittwoch: Werbung** · **Freitag: Deutsch-Tipp** (jeweils 10:58 Uhr). Der Werbetag darf innerhalb der Woche wechseln, wenn eine Frist es verlangt.
+- Fristen beachten: Werbung für eine Anmeldefrist spätestens 3 Tage vor Fristende einplanen.
 - Etwa jeder zweite Freitags-Tipp ist ein **Reel** (Folien-Video, 4–5 Folien), damit Sena (Lehrerin) eine Sprachaufnahme machen kann.
 
 ## Absolute Tabus (niemals)
