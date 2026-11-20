@@ -33,14 +33,14 @@
     },
     {
       "nr": "03",
-      "datum": "2026-11-20",
+      "datum": null,
       "titel": "Deutsch-Tipp: seit oder vor?",
       "typ": "reel",
       "bild_url": "https://raw.githubusercontent.com/mirzaaksoy/rbi-sprachschule-medien/main/2026-11/rbi-03-reel-seit-vor-cover.jpg",
       "video_url": "https://raw.githubusercontent.com/mirzaaksoy/rbi-sprachschule-medien/main/2026-11/rbi-03-reel-seit-vor.mp4",
       "text_instagram": "„seit“ oder „vor“? 🤔 Das verwechseln viele!\n\n👉 SEIT = es dauert noch an\n„Ich wohne seit drei Jahren in Düsseldorf.“\n\n👉 VOR = es ist vorbei\n„Ich bin vor drei Jahren nach Düsseldorf gekommen.“\n\nSpeichern Sie sich diesen Tipp 📌 und folgen Sie uns für mehr Deutsch-Tipps!\n\n#deutschlernen #deutschtipps #grammatik #learngerman #germanlanguage #deutschalsfremdsprache #rbisprachschule",
       "text_facebook": "„seit“ oder „vor“? 🤔 Das verwechseln viele!\n\n👉 SEIT = es dauert noch an\n„Ich wohne seit drei Jahren in Düsseldorf.“\n\n👉 VOR = es ist vorbei\n„Ich bin vor drei Jahren nach Düsseldorf gekommen.“\n\nSpeichern Sie sich diesen Tipp 📌 und folgen Sie uns für mehr Deutsch-Tipps!\n\n#deutschlernen #deutschtipps #grammatik #learngerman #germanlanguage #deutschalsfremdsprache #rbisprachschule",
-      "status": "gestoppt",
+      "status": "wartet_auf_ton",
       "kategorie": "deutsch-lernen",
       "sprechskript": [
         "Seit oder vor? Das verwechseln viele.",
@@ -49,7 +49,7 @@
         "Mehr Tipps? Folgen Sie der RBI Sprachschule!"
       ],
       "audio": false,
-      "stopp_grund": "Kein Ton – Reels nur mit Sprachaufnahme veröffentlichen"
+      "hinweis": "Wird erst veröffentlicht, wenn Senas Sprachmemo eingebaut ist (audio: true)."
     },
     {
       "nr": "02",
@@ -73,7 +73,7 @@
       "text_instagram": "„Ich bin kalt“ ❌ – „Mir ist kalt“ ✅\n\nWenn wir sagen, wie sich unser Körper fühlt, benutzen wir „mir ist …“:\nMir ist kalt. Mir ist warm. Mir ist schlecht. Mir ist schwindelig.\n\n⚠️ Vorsicht: „Ich bin langweilig“ bedeutet: Ich bin eine langweilige Person. 😅\nRichtig ist: „Mir ist langweilig.“\n\nKennen Sie diesen Fehler? Schreiben Sie es in die Kommentare! 👇\n\n📚 Deutsch lernen mit der RBI Sprachschule – Intensivkurse A1–C1 in Düsseldorf. Link in Bio.\n\n#deutschlernen #deutschtipps #typischefehler #grammatik #learngerman #deutschalsfremdsprache #rbisprachschule",
       "text_facebook": "„Ich bin kalt“ ❌ – „Mir ist kalt“ ✅\n\nWenn wir sagen, wie sich unser Körper fühlt, benutzen wir „mir ist …“:\nMir ist kalt. Mir ist warm. Mir ist schlecht. Mir ist schwindelig.\n\n⚠️ Vorsicht: „Ich bin langweilig“ bedeutet: Ich bin eine langweilige Person. 😅\nRichtig ist: „Mir ist langweilig.“\n\nKennen Sie diesen Fehler? Schreiben Sie es in die Kommentare! 👇\n\n📚 Deutsch lernen mit der RBI Sprachschule – Intensivkurse A1–C1 in Düsseldorf: rbi-duesseldorf.de\n\n#deutschlernen #deutschtipps #typischefehler #grammatik #learngerman #deutschalsfremdsprache #rbisprachschule",
       "status": "geplant",
-      "datum": "2026-11-25"
+      "datum": "2026-11-20"
     },
     {
       "nr": "09",
@@ -84,7 +84,7 @@
       "video_url": "https://raw.githubusercontent.com/mirzaaksoy/rbi-sprachschule-medien/main/2026-11/rbi-09-reel-redewendungen.mp4",
       "text_instagram": "3 deutsche Redewendungen, die Sie kennen sollten 😄\n\n1️⃣ „Ich verstehe nur Bahnhof.“ = Ich verstehe gar nichts.\n2️⃣ „Du hast Tomaten auf den Augen!“ = Du siehst etwas Offensichtliches nicht.\n3️⃣ „Ich drücke dir die Daumen!“ = Ich wünsche dir viel Glück.\n\nWelche Redewendung kennen Sie noch? Schreiben Sie es in die Kommentare! 👇\n\n#deutschlernen #redewendungen #deutschtipps #learngerman #germanidioms #deutschalsfremdsprache #rbisprachschule",
       "text_facebook": "3 deutsche Redewendungen, die Sie kennen sollten 😄\n\n1️⃣ „Ich verstehe nur Bahnhof.“ = Ich verstehe gar nichts.\n2️⃣ „Du hast Tomaten auf den Augen!“ = Du siehst etwas Offensichtliches nicht.\n3️⃣ „Ich drücke dir die Daumen!“ = Ich wünsche dir viel Glück.\n\nWelche Redewendung kennen Sie noch? Schreiben Sie es in die Kommentare! 👇\n\n#deutschlernen #redewendungen #deutschtipps #learngerman #germanidioms #deutschalsfremdsprache #rbisprachschule",
-      "status": "gestoppt",
+      "status": "wartet_auf_ton",
       "kategorie": "deutsch-lernen",
       "sprechskript": [
         "Drei Redewendungen, die Sie kennen sollten.",
@@ -94,7 +94,7 @@
         "Welche Redewendung kennen Sie noch? Schreiben Sie es in die Kommentare!"
       ],
       "audio": false,
-      "stopp_grund": "Kein Ton – Reels nur mit Sprachaufnahme veröffentlichen"
+      "hinweis": "Wird erst veröffentlicht, wenn Senas Sprachmemo eingebaut ist (audio: true)."
     },
     {
       "nr": "20",
