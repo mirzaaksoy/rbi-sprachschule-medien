@@ -37,6 +37,13 @@ Alle Fakten, Preise und Termine NUR aus `daten/`. Nichts erfinden. Fehlen Daten 
 - Dateinamen: `JJJJ-MM/rbi-NN-stichwort.jpg|mp4`, NN = fortlaufende Post-Nummer.
 - Für Reels die Folien zusätzlich als `reels/NN.json` speichern (für spätere Sprachaufnahme) und ein Sprechskript (1 Satz pro Folie) im Plan-Eintrag unter `sprechskript` ablegen.
 
+## Karussell-Posts (mehrere Bilder)
+- Hin und wieder, wenn das Thema es hergibt, einen Post als **Karussell** mit 3–6 Bildern anlegen (Instagram erlaubt 2–10). Gut geeignet: Wortschatz-Reihen, Schritt-für-Schritt-Grammatik, „5 typische Fehler“, Prüfungsablauf (telc/FSP), Vorher-Nachher-Sätze. Etwa 1 Karussell alle 2 Wochen, nicht öfter als 1 pro Woche.
+- Bild 1 = Titelbild mit klarer Überschrift („Wischen ➜“ als kleiner Hinweis unten), danach je ein Punkt pro Bild, letztes Bild = Zusammenfassung oder Hinweis auf die RBI Sprachschule.
+- Alle Bilder im selben Stil (`lernen` bzw. `werbung`), Format 4:5, Dateinamen `JJJJ-MM/rbi-NN-stichwort-1.jpg`, `-2.jpg` …
+- Plan-Eintrag: typ "karussell", `bild_urls` (Liste in Reihenfolge), `bild_url` = erstes Bild (Titelbild).
+- Facebook bekommt nur das Titelbild (bild_url) mit dem Text; im Facebook-Text die Punkte vollständig ausschreiben.
+
 ## Videos/Reels – NIEMALS ohne Ton
 - Ein Reel/Video wird **nie** ohne Ton veröffentlicht. Neue Reels bekommen status "wartet_auf_ton" und erst nach eingebautem Sprachmemo (audio: true) status "geplant".
 - Liegt bis zum Vortag 12 Uhr kein Memo vor, wird der Termin mit einem Lern-Post als Bild belegt; das Reel bleibt ohne Datum mit status "wartet_auf_ton" und wird eingeplant, sobald der Ton da ist.
