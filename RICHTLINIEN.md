@@ -42,6 +42,7 @@ Alle Fakten, Preise und Termine NUR aus `daten/`. Nichts erfinden. Fehlen Daten 
 - Bild 1 = Titelbild mit klarer Überschrift („Wischen ➜“ als kleiner Hinweis unten), danach je ein Punkt pro Bild, letztes Bild = Zusammenfassung oder Hinweis auf die RBI Sprachschule.
 - Alle Bilder im selben Stil (`lernen` bzw. `werbung`), Format 4:5, Dateinamen `JJJJ-MM/rbi-NN-stichwort-1.jpg`, `-2.jpg` …
 - Plan-Eintrag: typ "karussell", `bild_urls` (Liste in Reihenfolge), `bild_url` = erstes Bild (Titelbild).
+- Vorlage: `karussell/17.json` (Stil `lernen`, Zähler „1/6“ oben rechts, „Wischen ➜“ auf Bild 1, zentrierter Inhalt mit größerer Schrift über den mitgelieferten <style>-Block). Neue Karussells als `karussell/NN.json` speichern.
 - Facebook bekommt nur das Titelbild (bild_url) mit dem Text; im Facebook-Text die Punkte vollständig ausschreiben.
 
 ## Videos/Reels – NIEMALS ohne Ton
